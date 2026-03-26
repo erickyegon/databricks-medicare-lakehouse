@@ -1001,5 +1001,3 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 *This project uses entirely synthetic data generated for pipeline demonstration purposes. No real Medicare beneficiary data is used or represented. ICD-10 codes and HCC mappings reflect the CMS v28 regulatory framework, included for technical accuracy only.*
-#   d a t a b r i c k s - m e d i c a r e - l a k e h o u s e  
- 
