@@ -482,7 +482,7 @@ This is not optional in a regulated healthcare setting. It is the difference bet
 
 #### SHAP explainability — the clinical trust layer
 
-Every member flagged as high-risk receives a SHAP waterfall showing exactly which features drove that classification and by how much. This is not cosmetic — it is what allowed the Uganda Ministry of Health to trust and scale the companion immunization defaulter model from 2 to 5 districts after validation. Clinicians can interrogate the reason for every prediction before acting on it.
+Every member flagged as high-risk receives a SHAP waterfall showing exactly which features drove that classification and by how much. This is not cosmetic. Clinicians can interrogate the reason for every prediction before acting on it.
 
 ```python
 # Extract SHAP values from base XGBoost booster (inside CalibratedClassifierCV)
@@ -976,21 +976,11 @@ This project is the **data engineering foundation** of a broader healthcare AI p
 | [medicare-raf-prototypes](https://github.com/erickyegon/medicare-raf-prototypes) | XGBoost + SHAP risk adjustment + Streamlit dashboard + DiD causal attribution | ATT = −$391/member (p < 0.0001) |
 | [clinical-doc-intelligence](https://github.com/erickyegon/clinical-doc-intelligence) | LangChain + LangGraph RAG for FDA drug labels with PHI detection and RAGAS evaluation | 54 automated tests passing |
 | [prior-auth-dss](https://github.com/erickyegon/prior-auth-dss) | LangGraph multi-agent prior authorization decision support with RLHF alignment | End-to-end autonomous clinical review |
-| [immunization-defaulter-risk-engine](https://github.com/erickyegon/immunization-defaulter-risk-engine) | XGBoost + SHAP defaulter prediction scaled to 5 Uganda MOH districts | ECE = 0.023 post-calibration |
+| [immunization-defaulter-risk-engine](https://github.com/erickyegon/immunization-defaulter-risk-engine) | XGBoost + SHAP defaulter prediction | ECE = 0.023 post-calibration |
 
 ---
 
-## 👤 Author
-
-**Erick Kiprotich Yegon, PhD**  
-*Lead Data Scientist · Healthcare AI · LLMOps · Agentic Systems*
-
-PhD in Epidemiology (WES-verified U.S. equivalent) · 17+ years in production ML and healthcare analytics · 30+ peer-reviewed publications, including The Lancet (2025) (h-index 10) · U.S. Permanent Resident (EB-1A Extraordinary Ability)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-erickyegon-0A66C2?logo=linkedin)](https://linkedin.com/in/erickyegon)
-[![GitHub](https://img.shields.io/badge/GitHub-erickyegon-181717?logo=github)](https://github.com/erickyegon)
-[![YouTube](https://img.shields.io/badge/YouTube-DataStride-FF0000?logo=youtube)](https://youtube.com/@DataStride)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7055--4848-A6CE39?logo=orcid)](https://orcid.org/0000-0002-7055-4848)
+Author: Erick Kiprotich Yegon, epidemiologist and data scientist (real-world evidence, HEOR, causal inference) · Portfolio: https://erickyegon.github.io · LinkedIn: https://linkedin.com/in/erickyegon
 
 ---
 
