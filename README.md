@@ -985,7 +985,7 @@ This project is the **data engineering foundation** of a broader healthcare AI p
 **Erick Kiprotich Yegon, PhD**  
 *Lead Data Scientist · Healthcare AI · LLMOps · Agentic Systems*
 
-PhD in Epidemiology (WES-verified U.S. equivalent) · 17+ years in production ML and healthcare analytics · 30+ peer-reviewed publications including The Lancet Global Health (h-index 10) · U.S. Permanent Resident (EB-1A Extraordinary Ability)
+PhD in Epidemiology (WES-verified U.S. equivalent) · 17+ years in production ML and healthcare analytics · 30+ peer-reviewed publications, including The Lancet (2025) (h-index 10) · U.S. Permanent Resident (EB-1A Extraordinary Ability)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erickyegon-0A66C2?logo=linkedin)](https://linkedin.com/in/erickyegon)
 [![GitHub](https://img.shields.io/badge/GitHub-erickyegon-181717?logo=github)](https://github.com/erickyegon)
