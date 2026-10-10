@@ -975,7 +975,6 @@ This project is the **data engineering foundation** of a broader healthcare AI p
 |---------|-------------|-----------|
 | [medicare-raf-prototypes](https://github.com/erickyegon/medicare-raf-prototypes) | XGBoost + SHAP risk adjustment + Streamlit dashboard + DiD causal attribution | ATT = −$391/member (p < 0.0001) |
 | [clinical-doc-intelligence](https://github.com/erickyegon/clinical-doc-intelligence) | LangChain + LangGraph RAG for FDA drug labels with PHI detection and RAGAS evaluation | 54 automated tests passing |
-| [prior-auth-dss](https://github.com/erickyegon/prior-auth-dss) | LangGraph multi-agent prior authorization decision support with RLHF alignment | End-to-end autonomous clinical review |
 | [immunization-defaulter-risk-engine](https://github.com/erickyegon/immunization-defaulter-risk-engine) | XGBoost + SHAP defaulter prediction | ECE = 0.023 post-calibration |
 
 ---
